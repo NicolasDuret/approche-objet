@@ -7,4 +7,9 @@ public class Credit extends Operation{
     public Credit(String dateOpération, int montant) {
         super(dateOpération, montant);
     }
+
+    @Override
+    public String afficherType() {
+        return "type : Credit";
+    }
 }

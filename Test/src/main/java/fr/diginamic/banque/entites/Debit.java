@@ -3,8 +3,13 @@ import fr.diginamic.banque.entites.Operation;
 
 import java.util.Date;
 
-public class Debit extends Operation{
+public  class Debit extends Operation{
     public Debit(String dateOpération, int montant) {
         super(dateOpération, montant);
+    }
+
+    @Override
+    public String afficherType() {
+        return "type : Debit";
     }
 }

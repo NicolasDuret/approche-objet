@@ -11,6 +11,10 @@ public abstract class Operation {
         this.montant = montant;
     }
 
+    public float  getMontant(){
+        return montant;
+    }
+
     @Override
     public String toString() {
         return "Operation{" +
@@ -19,7 +23,6 @@ public abstract class Operation {
                 '}';
     }
 
-    public abstract class afficherType {
+    public abstract String afficherType();
 
-    }
 }
