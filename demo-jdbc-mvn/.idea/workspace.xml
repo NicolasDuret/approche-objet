@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b6a0836-f2db-4948-b80e-fc0800f34482" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/approche-objet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreationLibrairie/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreationLibrairie/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreationLibrairie/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreationLibrairie/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreationLibrairie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreationLibrairie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreationLibrairie/CreationLibrairie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreationLibrairie/src/main/java/Ensemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreationLibrairie/src/main/java/EnsembleListe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanceDe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanceDe/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bebea050-6e0f-4cd8-a378-0b20f10c8057.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bebea050-6e0f-4cd8-a378-0b20f10c8057/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-jdbc-mvn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/TestDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/TestInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/TestJdbcArticles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/TestSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/TestUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/dao/ArticleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/dao/ArticleDaoJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/dao/FournisseurDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/dao/FournisseurDaoJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/dao/TextDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/entites/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc/entites/Fournisseur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fr/epsi/jdbc/TestInsertion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/demo-jdbc-mvn-1.0-DEV-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/demo-jdbc-mvn-1.0-DEV.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/dataSources/091ba0e7-6dcc-4555-89c7-ed912eaef500.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/dataSources/091ba0e7-6dcc-4555-89c7-ed912eaef500/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/libraries/mariadb_java_client_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/demo-jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/src/TestConnexionJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/src/jdbc/TestInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-jdbc/src/resources/database.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l0gy26n5O1jhQWK5vcgQzrXxtu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/fr/epsi/jdbc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b6a0836-f2db-4948-b80e-fc0800f34482" name="Default Changelist" comment="" />
+      <created>1606739675124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606739675124</updated>
+      <workItem from="1606739679629" duration="3502000" />
+      <workItem from="1606743264499" duration="5164000" />
+      <workItem from="1606749286485" duration="1297000" />
+      <workItem from="1606894261368" duration="759000" />
+      <workItem from="1606895074141" duration="6562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="78" y="94" key="#Project_Structure" timestamp="1606748719289">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="78" y="94" key="#Project_Structure/0.0.1920.1040/-1920.-272.1920.1040@0.0.1920.1040" timestamp="1606740647940" />
+    <state x="78" y="94" key="#Project_Structure/0.0.1920.1040/1920.8.1920.1040@0.0.1920.1040" timestamp="1606748719289" />
+    <state x="305" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606916869228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="305" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.-272.1920.1040@0.0.1920.1040" timestamp="1606743039674" />
+    <state x="305" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606916869228" />
+    <state x="493" y="275" key="FileChooserDialogImpl" timestamp="1606895319592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-272.1920.1040@0.0.1920.1040" timestamp="1606743268289" />
+    <state x="493" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606895319592" />
+    <state x="493" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.8.1920.1040@0.0.1920.1040" timestamp="1606749214938" />
+    <state width="1526" height="281" key="GridCell.Tab.0.bottom" timestamp="1606917718034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1366" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-272.1920.1040@0.0.1920.1040" timestamp="1606743498673" />
+    <state width="1526" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606917718034" />
+    <state width="1366" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.8.1920.1040@0.0.1920.1040" timestamp="1606749218047" />
+    <state width="1526" height="281" key="GridCell.Tab.0.center" timestamp="1606917718033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1366" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-272.1920.1040@0.0.1920.1040" timestamp="1606743498673" />
+    <state width="1526" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606917718033" />
+    <state width="1366" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.8.1920.1040@0.0.1920.1040" timestamp="1606749218047" />
+    <state width="1526" height="281" key="GridCell.Tab.0.left" timestamp="1606917718033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1366" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-272.1920.1040@0.0.1920.1040" timestamp="1606743498673" />
+    <state width="1526" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606917718033" />
+    <state width="1366" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.8.1920.1040@0.0.1920.1040" timestamp="1606749218047" />
+    <state width="1526" height="281" key="GridCell.Tab.0.right" timestamp="1606917718033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1366" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-272.1920.1040@0.0.1920.1040" timestamp="1606743498673" />
+    <state width="1526" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606917718033" />
+    <state width="1366" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.8.1920.1040@0.0.1920.1040" timestamp="1606749218047" />
+    <state x="257" y="165" key="SettingsEditor" timestamp="1606894615813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="257" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606894615813" />
+    <state x="257" y="165" key="SettingsEditor/0.0.1920.1040/1920.8.1920.1040@0.0.1920.1040" timestamp="1606749216367" />
+  </component>
+</project>

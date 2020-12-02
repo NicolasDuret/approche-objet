@@ -1,0 +1,6 @@
+fr\epsi\jdbc\TestJdbcArticles.class
+fr\epsi\jdbc\TestUpdate.class
+fr\epsi\jdbc\TestDelete.class
+fr\epsi\jdbc\TestSelect.class
+App.class
+fr\epsi\jdbc\TestInsertion.class
